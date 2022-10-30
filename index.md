@@ -9,4 +9,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+#### Making a task list:
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
